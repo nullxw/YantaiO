@@ -7,6 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2D7F8D46182A2BB600B91144 /* RegStep1Controller.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D7F8D44182A2BB600B91144 /* RegStep1Controller.m */; };
+		2D7F8D47182A2BB600B91144 /* RegStep1Controller.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2D7F8D45182A2BB600B91144 /* RegStep1Controller.xib */; };
+		2D7F8D4B182A2C0900B91144 /* RegStep2Controller.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D7F8D49182A2C0900B91144 /* RegStep2Controller.m */; };
+		2D7F8D4C182A2C0900B91144 /* RegStep2Controller.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2D7F8D4A182A2C0900B91144 /* RegStep2Controller.xib */; };
+		2D7F8D50182A2C2500B91144 /* RegStep3Controller.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D7F8D4E182A2C2500B91144 /* RegStep3Controller.m */; };
+		2D7F8D51182A2C2500B91144 /* RegStep3Controller.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2D7F8D4F182A2C2500B91144 /* RegStep3Controller.xib */; };
+		2D7F8D55182A2C7A00B91144 /* RegStep4Controller.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D7F8D53182A2C7A00B91144 /* RegStep4Controller.m */; };
+		2D7F8D56182A2C7A00B91144 /* RegStep4Controller.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2D7F8D54182A2C7A00B91144 /* RegStep4Controller.xib */; };
+		2D7F8D5A182A2CB500B91144 /* RegStep5Controller.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D7F8D58182A2CB500B91144 /* RegStep5Controller.m */; };
+		2D7F8D5B182A2CB500B91144 /* RegStep5Controller.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2D7F8D59182A2CB500B91144 /* RegStep5Controller.xib */; };
+		2D7F8D60182A2DE400B91144 /* AddFriendsListController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D7F8D5E182A2DE400B91144 /* AddFriendsListController.m */; };
+		2D7F8D61182A2DE400B91144 /* AddFriendsListController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2D7F8D5F182A2DE400B91144 /* AddFriendsListController.xib */; };
 		2DBFDDCE1828758200BD9568 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2DBFDDCD1828758200BD9568 /* Foundation.framework */; };
 		2DBFDDD01828758200BD9568 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2DBFDDCF1828758200BD9568 /* CoreGraphics.framework */; };
 		2DBFDDD21828758200BD9568 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2DBFDDD11828758200BD9568 /* UIKit.framework */; };
@@ -32,6 +44,24 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2D7F8D43182A2BB600B91144 /* RegStep1Controller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RegStep1Controller.h; sourceTree = "<group>"; };
+		2D7F8D44182A2BB600B91144 /* RegStep1Controller.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RegStep1Controller.m; sourceTree = "<group>"; };
+		2D7F8D45182A2BB600B91144 /* RegStep1Controller.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = RegStep1Controller.xib; sourceTree = "<group>"; };
+		2D7F8D48182A2C0900B91144 /* RegStep2Controller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RegStep2Controller.h; sourceTree = "<group>"; };
+		2D7F8D49182A2C0900B91144 /* RegStep2Controller.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RegStep2Controller.m; sourceTree = "<group>"; };
+		2D7F8D4A182A2C0900B91144 /* RegStep2Controller.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = RegStep2Controller.xib; sourceTree = "<group>"; };
+		2D7F8D4D182A2C2500B91144 /* RegStep3Controller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RegStep3Controller.h; sourceTree = "<group>"; };
+		2D7F8D4E182A2C2500B91144 /* RegStep3Controller.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RegStep3Controller.m; sourceTree = "<group>"; };
+		2D7F8D4F182A2C2500B91144 /* RegStep3Controller.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = RegStep3Controller.xib; sourceTree = "<group>"; };
+		2D7F8D52182A2C7A00B91144 /* RegStep4Controller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RegStep4Controller.h; sourceTree = "<group>"; };
+		2D7F8D53182A2C7A00B91144 /* RegStep4Controller.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RegStep4Controller.m; sourceTree = "<group>"; };
+		2D7F8D54182A2C7A00B91144 /* RegStep4Controller.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = RegStep4Controller.xib; sourceTree = "<group>"; };
+		2D7F8D57182A2CB500B91144 /* RegStep5Controller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RegStep5Controller.h; sourceTree = "<group>"; };
+		2D7F8D58182A2CB500B91144 /* RegStep5Controller.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RegStep5Controller.m; sourceTree = "<group>"; };
+		2D7F8D59182A2CB500B91144 /* RegStep5Controller.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = RegStep5Controller.xib; sourceTree = "<group>"; };
+		2D7F8D5D182A2DE400B91144 /* AddFriendsListController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddFriendsListController.h; sourceTree = "<group>"; };
+		2D7F8D5E182A2DE400B91144 /* AddFriendsListController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddFriendsListController.m; sourceTree = "<group>"; };
+		2D7F8D5F182A2DE400B91144 /* AddFriendsListController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AddFriendsListController.xib; sourceTree = "<group>"; };
 		2DBFDDCA1828758200BD9568 /* YantaiO.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YantaiO.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2DBFDDCD1828758200BD9568 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		2DBFDDCF1828758200BD9568 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -74,6 +104,38 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2D7F8D42182A27E000B91144 /* Register */ = {
+			isa = PBXGroup;
+			children = (
+				2D7F8D43182A2BB600B91144 /* RegStep1Controller.h */,
+				2D7F8D44182A2BB600B91144 /* RegStep1Controller.m */,
+				2D7F8D45182A2BB600B91144 /* RegStep1Controller.xib */,
+				2D7F8D48182A2C0900B91144 /* RegStep2Controller.h */,
+				2D7F8D49182A2C0900B91144 /* RegStep2Controller.m */,
+				2D7F8D4A182A2C0900B91144 /* RegStep2Controller.xib */,
+				2D7F8D4D182A2C2500B91144 /* RegStep3Controller.h */,
+				2D7F8D4E182A2C2500B91144 /* RegStep3Controller.m */,
+				2D7F8D4F182A2C2500B91144 /* RegStep3Controller.xib */,
+				2D7F8D52182A2C7A00B91144 /* RegStep4Controller.h */,
+				2D7F8D53182A2C7A00B91144 /* RegStep4Controller.m */,
+				2D7F8D54182A2C7A00B91144 /* RegStep4Controller.xib */,
+				2D7F8D57182A2CB500B91144 /* RegStep5Controller.h */,
+				2D7F8D58182A2CB500B91144 /* RegStep5Controller.m */,
+				2D7F8D59182A2CB500B91144 /* RegStep5Controller.xib */,
+			);
+			path = Register;
+			sourceTree = "<group>";
+		};
+		2D7F8D5C182A2D2500B91144 /* Friends */ = {
+			isa = PBXGroup;
+			children = (
+				2D7F8D5D182A2DE400B91144 /* AddFriendsListController.h */,
+				2D7F8D5E182A2DE400B91144 /* AddFriendsListController.m */,
+				2D7F8D5F182A2DE400B91144 /* AddFriendsListController.xib */,
+			);
+			path = Friends;
+			sourceTree = "<group>";
+		};
 		2DBFDDC11828758100BD9568 = {
 			isa = PBXGroup;
 			children = (
@@ -107,6 +169,8 @@
 		2DBFDDD31828758200BD9568 /* YantaiO */ = {
 			isa = PBXGroup;
 			children = (
+				2D7F8D5C182A2D2500B91144 /* Friends */,
+				2D7F8D42182A27E000B91144 /* Register */,
 				2DBFDDDC1828758200BD9568 /* JDAppDelegate.h */,
 				2DBFDDDD1828758200BD9568 /* JDAppDelegate.m */,
 				2DBFDDDF1828758200BD9568 /* Images.xcassets */,
@@ -221,7 +285,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				2DBFDDD81828758200BD9568 /* InfoPlist.strings in Resources */,
+				2D7F8D61182A2DE400B91144 /* AddFriendsListController.xib in Resources */,
+				2D7F8D56182A2C7A00B91144 /* RegStep4Controller.xib in Resources */,
+				2D7F8D47182A2BB600B91144 /* RegStep1Controller.xib in Resources */,
 				2DBFDDE01828758200BD9568 /* Images.xcassets in Resources */,
+				2D7F8D51182A2C2500B91144 /* RegStep3Controller.xib in Resources */,
+				2D7F8D4C182A2C0900B91144 /* RegStep2Controller.xib in Resources */,
+				2D7F8D5B182A2CB500B91144 /* RegStep5Controller.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -240,8 +310,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2D7F8D50182A2C2500B91144 /* RegStep3Controller.m in Sources */,
+				2D7F8D60182A2DE400B91144 /* AddFriendsListController.m in Sources */,
+				2D7F8D55182A2C7A00B91144 /* RegStep4Controller.m in Sources */,
+				2D7F8D46182A2BB600B91144 /* RegStep1Controller.m in Sources */,
 				2DBFDDDE1828758200BD9568 /* JDAppDelegate.m in Sources */,
 				2DBFDDDA1828758200BD9568 /* main.m in Sources */,
+				2D7F8D4B182A2C0900B91144 /* RegStep2Controller.m in Sources */,
+				2D7F8D5A182A2CB500B91144 /* RegStep5Controller.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -316,7 +392,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 			};
@@ -349,7 +425,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -442,6 +518,7 @@
 				2DBFDDF81828758200BD9568 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2DBFDDF91828758200BD9568 /* Build configuration list for PBXNativeTarget "YantaiOTests" */ = {
 			isa = XCConfigurationList;
@@ -450,6 +527,7 @@
 				2DBFDDFB1828758200BD9568 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
